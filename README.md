@@ -1,3 +1,2 @@
-# Blooket-Tokens-Hack
-500 Blooket Tokens Daliy and loads more blooket hacks
-
+# Blooket-Hacks
+Put javascript: at the start of the code if setting it as a bookmark
